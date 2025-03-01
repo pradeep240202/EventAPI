@@ -2,6 +2,8 @@
 
 # Clone the Repo
 git clone https://github.com/pradeep240202/EventAPI.git
+
+# Navigate to Project folder
 cd EventAPI
 
 # Run command 
@@ -62,6 +64,11 @@ password : password
  python3 -m venv env
  source env/bin/activate
 
+ # Install Dependencies
+ pip install -r requirements.txt
+
+ # Change database configuration(I hard coded it to save time in Real time I used to create .env file and use decouple and os to pass value dynamically)
+ 
  # Run script
  python create_users.py
 
