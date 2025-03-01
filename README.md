@@ -55,7 +55,7 @@ password : password
     "quantity": 10   # any int value 
    }
 
- ____________________________________________________ Manual Setup (Without Docker) ____________________________________________________________________________
+ _______________Manual Setup (Without Docker) ___________________
 
  # Clone the repo
  git clone https://github.com/pradeep240202/EventAPI.git
