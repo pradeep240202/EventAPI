@@ -55,6 +55,12 @@ password : password
     "quantity": 10   # any int value 
    }
 
+   # SQl QUERY
+
+   queries.sql
+
+ 
+
  _______________Manual Setup (Without Docker) ___________________
 
  # Clone the repo
